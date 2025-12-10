@@ -1,0 +1,59 @@
+title,datetime_local,id,venue name,city,lowest price (range),lowest price lower bound,lowest price upper bound
+Atlanta Hawks at Los Angeles Lakers,2026-01-13T19:30:00,17670611,Crypto.com Arena,Los Angeles,"[50, 60]",50,60
+New Orleans Pelicans at Los Angeles Lakers,2026-03-03T19:30:00,17670634,Crypto.com Arena,Los Angeles,"[50, 60]",50,60
+Los Angeles Lakers at Utah Jazz,2025-12-18T19:00:00,17524222,Delta Center,Salt Lake City,"[60, 70]",60,70
+Los Angeles Lakers at New Orleans Pelicans,2026-01-06T19:00:00,17632249,Smoothie King Center,New Orleans,"[60, 70]",60,70
+NBA Cup - Quarterfinals: San Antonio Spurs at Los Angeles Lakers,2025-12-10T19:00:00,17672772,Crypto.com Arena,Los Angeles,"[80, 90]",80,90
+Milwaukee Bucks at Los Angeles Lakers,2026-01-09T19:30:00,17670608,Crypto.com Arena,Los Angeles,"[80, 90]",80,90
+Charlotte Hornets at Los Angeles Lakers,2026-01-15T19:30:00,17670612,Crypto.com Arena,Los Angeles,"[90, 100]",90,100
+Los Angeles Lakers at Denver Nuggets,2026-01-20T20:00:00,17670389,Ball Arena,Denver,"[90, 100]",90,100
+Philadelphia 76ers at Los Angeles Lakers,2026-02-05T19:00:00,17670616,Crypto.com Arena,Los Angeles,"[90, 100]",90,100
+Washington Wizards at Los Angeles Lakers,2026-03-30T10:00:00,17670649,Crypto.com Arena,Los Angeles,"[90, 100]",90,100
+Memphis Grizzlies at Los Angeles Lakers,2026-01-02T19:30:00,17670604,Crypto.com Arena,Los Angeles,"[100, 110]",100,110
+Orlando Magic at Los Angeles Lakers,2026-02-24T19:30:00,17670631,Crypto.com Arena,Los Angeles,"[100, 110]",100,110
+Los Angeles Lakers at Phoenix Suns,2026-02-26T19:00:00,17669139,Mortgage Matchup Center,Phoenix,"[100, 110]",100,110
+Los Angeles Lakers at Denver Nuggets,2026-03-05T20:00:00,17670409,Ball Arena,Denver,"[100, 110]",100,110
+Indiana Pacers at Los Angeles Lakers,2026-03-06T19:30:00,17670636,Crypto.com Arena,Los Angeles,"[100, 110]",100,110
+Minnesota Timberwolves at Los Angeles Lakers,2026-03-10T20:00:00,17670641,Crypto.com Arena,Los Angeles,"[100, 110]",100,110
+Chicago Bulls at Los Angeles Lakers,2026-03-12T19:30:00,17670642,Crypto.com Arena,Los Angeles,"[100, 110]",100,110
+Brooklyn Nets at Los Angeles Lakers,2026-03-27T19:30:00,17670647,Crypto.com Arena,Los Angeles,"[100, 110]",100,110
+Cleveland Cavaliers at Los Angeles Lakers,2026-03-31T19:30:00,17670648,Crypto.com Arena,Los Angeles,"[100, 110]",100,110
+Memphis Grizzlies at Los Angeles Lakers,2026-01-04T18:30:00,17670605,Crypto.com Arena,Los Angeles,"[110, 120]",110,120
+Los Angeles Lakers at Portland Trail Blazers,2026-01-17T19:00:00,17670475,Moda Center,Portland,"[110, 120]",110,120
+San Antonio Spurs at Los Angeles Lakers,2026-02-10T19:30:00,17670623,Crypto.com Arena,Los Angeles,"[110, 120]",110,120
+Dallas Mavericks at Los Angeles Lakers,2026-02-12T19:00:00,17670625,Crypto.com Arena,Los Angeles,"[110, 120]",110,120
+Sacramento Kings at Los Angeles Lakers,2026-03-01T18:30:00,17670633,Crypto.com Arena,Los Angeles,"[110, 120]",110,120
+Los Angeles Lakers at Houston Rockets,2026-03-16T20:00:00,17669379,Toyota Center,Houston,"[110, 120]",110,120
+Los Angeles Lakers at Houston Rockets,2026-03-18T20:30:00,17669380,Toyota Center,Houston,"[110, 120]",110,120
+Oklahoma City Thunder at Los Angeles Lakers,2026-04-07T19:30:00,17670653,Crypto.com Arena,Los Angeles,"[110, 120]",110,120
+Phoenix Suns at Los Angeles Lakers,2026-04-10T19:30:00,17670655,Crypto.com Arena,Los Angeles,"[110, 120]",110,120
+Los Angeles Lakers at Phoenix Suns,2025-12-23T19:00:00,17669100,Mortgage Matchup Center,Phoenix,"[120, 130]",120,130
+Los Angeles Lakers at San Antonio Spurs,2026-01-07T18:30:00,17669756,Frost Bank Center,San Antonio,"[120, 130]",120,130
+Toronto Raptors at Los Angeles Lakers,2026-01-18T18:30:00,17670615,Crypto.com Arena,Los Angeles,"[120, 130]",120,130
+Los Angeles Lakers at Washington Wizards,2026-01-30T19:00:00,17671323,Capital One Arena,Washington,"[120, 130]",120,130
+Los Angeles Lakers at Oklahoma City Thunder,2026-04-02T18:30:00,17671042,Paycom Center,Oklahoma City,"[130, 140]",130,140
+Oklahoma City Thunder at Los Angeles Lakers,2026-02-09T19:00:00,17670620,Crypto.com Arena,Los Angeles,"[140, 150]",140,150
+New York Knicks at Los Angeles Lakers,2026-03-08T12:30:00,17670637,Crypto.com Arena,Los Angeles,"[140, 150]",140,150
+Los Angeles Lakers at Detroit Pistons,2026-03-23T19:00:00,17669238,Little Caesars Arena,Detroit,"[140, 150]",140,150
+Los Angeles Lakers at Indiana Pacers,2026-03-25T19:00:00,17670576,Gainbridge Fieldhouse,Indianapolis,"[140, 150]",140,150
+Detroit Pistons at Los Angeles Lakers,2025-12-30T19:30:00,17670603,Crypto.com Arena,Los Angeles,"[150, 160]",150,160
+Los Angeles Lakers at Sacramento Kings,2026-01-12T19:00:00,17670694,Golden 1 Center,Sacramento,"[150, 160]",150,160
+Los Angeles Lakers at Los Angeles Clippers,2026-01-22T19:00:00,17671165,Intuit Dome,Inglewood,"[150, 160]",150,160
+Los Angeles Lakers at Cleveland Cavaliers,2026-01-28T19:00:00,17640409,Rocket Arena,Cleveland,"[170, 180]",170,180
+Sacramento Kings at Los Angeles Lakers,2025-12-28T18:30:00,17670601,Crypto.com Arena,Los Angeles,"[180, 190]",180,190
+Los Angeles Lakers at Chicago Bulls,2026-01-26T19:00:00,17670243,United Center,Chicago,"[180, 190]",180,190
+Los Angeles Clippers at Los Angeles Lakers,2026-02-20T19:00:00,17670626,Crypto.com Arena,Los Angeles,"[180, 190]",180,190
+Los Angeles Lakers at Dallas Mavericks,2026-04-05T18:30:00,17670350,American Airlines Center,Dallas,"[180, 190]",180,190
+Los Angeles Lakers at Brooklyn Nets,2026-02-03T19:30:00,17670078,Barclays Center,Brooklyn,"[190, 200]",190,200
+Boston Celtics at Los Angeles Lakers,2026-02-22T15:30:00,17670627,Crypto.com Arena,Los Angeles,"[200, 210]",200,210
+Los Angeles Lakers at Miami Heat,2026-03-19T20:00:00,17669473,Kaseya Center,Miami,"[200, 210]",200,210
+Utah Jazz at Los Angeles Lakers,2026-04-12T17:30:00,17670656,Crypto.com Arena,Los Angeles,"[200, 210]",200,210
+Los Angeles Lakers at Los Angeles Clippers,2025-12-20T19:30:00,17671145,Intuit Dome,Inglewood,"[210, 220]",210,220
+Los Angeles Lakers at Orlando Magic,2026-03-21T19:00:00,17671109,Kia Center,Orlando,"[210, 220]",210,220
+Denver Nuggets at Los Angeles Lakers,2026-03-14T17:30:00,17670645,Crypto.com Arena,Los Angeles,"[220, 230]",220,230
+Los Angeles Lakers at Dallas Mavericks,2026-01-24T19:30:00,17670322,American Airlines Center,Dallas,"[250, 260]",250,260
+Houston Rockets at Los Angeles Lakers,2025-12-25T17:00:00,17664875,Crypto.com Arena,Los Angeles,"[260, 270]",260,270
+Los Angeles Lakers at Golden State Warriors,2026-04-09T19:00:00,17669321,Chase Center,San Francisco,"[330, 340]",330,340
+Los Angeles Lakers at Golden State Warriors,2026-02-28T17:30:00,17669299,Chase Center,San Francisco,"[350, 360]",350,360
+Golden State Warriors at Los Angeles Lakers,2026-02-07T17:30:00,17670619,Crypto.com Arena,Los Angeles,"[380, 390]",380,390
+Los Angeles Lakers at New York Knicks,2026-02-01T19:00:00,17669602,Madison Square Garden,New York,"[530, 540]",530,540
