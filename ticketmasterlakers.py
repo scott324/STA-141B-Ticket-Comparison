@@ -17,7 +17,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 # CONFIG
 # ==========================
 
-API_KEY = None
+API_KEY = None #Insert your own API key here
 
 # Lakers attraction ID on Ticketmaster (team as "attraction")
 ATTRACTION_ID = "K8vZ91718T0"
